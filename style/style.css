@@ -1,0 +1,23 @@
+  #navlink-container {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  .navlink {
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    color: white;
+    float: left;
+  }
+
+  .active, .navlink:hover {
+    background-color: #666;
+    color: white;
+  }
