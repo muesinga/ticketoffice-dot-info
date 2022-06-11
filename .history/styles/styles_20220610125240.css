@@ -84,7 +84,7 @@ li.dropdown {
 .dropdown ul {
   /* Border */
   border: 1px solid rgba(0, 0, 0, 0.3);
-  background-color: black;
+  background-color: b
 
   /* Hidden by default */
   display: none;
